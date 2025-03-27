@@ -10,8 +10,6 @@ Conduct](CODE_OF_CONDUCT.md), regardless of whether the contribution is a
 discussion in a Pull Request on GitHub, a conversation in the #nerves channel on
 the [Elixir Slack], or any of the other items outlined below.
 
-[Elixir Slack]: https://elixir-slackin.herokuapp.com/
-
 ## How you can help
 
 We created this document to help you quickly turn your desire to contribute into
@@ -45,8 +43,7 @@ before the vulnerability is disclosed publicly.
 
     If you're able to send us an improvement directly to the [documentation
     source] or [website source] code, that is extremely helpful! Don't worry
-    about assigning labels, unless you also want to contribute to the [Triage
-    process] outlined below.
+    about assigning labels.
 
     Also, be sure to check out the guidelines below about contributing code and
     documentation changes.
@@ -72,14 +69,14 @@ before the vulnerability is disclosed publicly.
 
     We love to see how people are using Nerves for fun and and for work. If you
     blog about a Nerves-based project, please consider posting a link somewhere
-    that the community will notice it, like [Elixir Forum], [ElixirStatus], or
+    that the community will notice it, like [Elixir Forum], [ElixirStatus] or
     the #nerves channel on the [Elixir Slack].
 
-5. Chat with us on Slack
+6. Chat with us on Slack
 
-    We have a #nerves channel on the [Elixir Slack]. We'd be happy to have you
-    drop in and let us know if you have questions or want to talk about a
-    project you're working on, or thinking about working on.
+    We have a #nerves channel on both the [Elixir Slack].
+    We'd be happy to have you drop in and let us know if you have questions or
+    want to talk about a project you're working on, or thinking about working on.
 
 [our website]: http://www.nerves-project.org
 [Getting Started Guide]: https://hexdocs.pm/nerves/getting-started.html
@@ -93,6 +90,7 @@ before the vulnerability is disclosed publicly.
 [Nerves section]: https://elixirforum.com/c/nerves-forum
 [ElixirStatus]: http://elixirstatus.com/
 [security@nerves-project.org]: mailto:security@nerves-project.org
+[Elixir Slack]: https://elixir-slack.community/
 
 ## Answer questions on the Elixir Forum and Slack channel
 
@@ -120,19 +118,6 @@ and companies to make one-time or recurring financial contributions to cover the
 cost of maintaining the project.
 
 [OpenCollective site]: https://opencollective.com/nerves-project
-
-## Issue and Pull Request triage
-
-In order to keep track of Issues and Pull Requests across all of our
-repositories, we have a [Nerves Radar] project in our GitHub Organization.
-Unfortunately, this isn't visible to the public because GitHub requires that you
-be a member of the Organization to see Organization-level Projects. If you want
-to get involved in this process, get in touch with us on Slack!
-
-We currently don't have this process formalized, so feel free to contribute to
-this document itself!
-
-[Nerves Radar]: https://github.com/orgs/nerves-project/projects/1
 
 ## Code and documentation changes
 
