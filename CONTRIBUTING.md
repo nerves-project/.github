@@ -169,8 +169,7 @@ work, so don't take it personally if it takes us a long time to respond.
 Copyright and licensing are very important to open-source software projects.
 Nerves components fall under several licenses, so please review the license for
 the project to which you are contributing. By contributing, you certify that you
-have the right to submit the changes under the project's open source license and
-assign copyright to the Nerves Project maintainers.
+have the right to submit the changes under the project's open source license.
 
 ### Style guide for documentation
 
