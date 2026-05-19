@@ -35,9 +35,9 @@ have limited time to contribute and we would rather have one of the
 less-preferred items than nothing at all.
 
 One important exception is that **if you think you've found a security
-vulnerability, do not open a GitHub Issue!** Please disclose these by emailing
-[security@nerves-project.org] instead, so that we can work on releasing a fix
-before the vulnerability is disclosed publicly.
+vulnerability, do not open a GitHub Issue!** Follow our [Security Policy] to
+report it privately so we can work on releasing a fix before the vulnerability
+is disclosed publicly.
 
 1. Pull Request on GitHub
 
@@ -89,7 +89,7 @@ before the vulnerability is disclosed publicly.
 [Elixir Forum]: https://elixirforum.com
 [Nerves section]: https://elixirforum.com/c/nerves-forum
 [ElixirStatus]: http://elixirstatus.com/
-[security@nerves-project.org]: mailto:security@nerves-project.org
+[Security Policy]: SECURITY.md
 [Elixir Slack]: https://elixir-slack.community/
 
 ## Answer questions on the Elixir Forum and Slack channel
